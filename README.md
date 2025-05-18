@@ -1,7 +1,9 @@
-# 🌙 Dreambound
+<!-- LOGO PLACEHOLDER -->
 <p align="center">
-  <img src="public/images/logo.png" alt="Dreambound Logo" width="300"/>
+  <img src="public/images/logo.png" alt="Dreambound Logo" width="200"/>
 </p>
+
+# 🌌 Dreambound
 
 ## 👥 1. Présentation de l'équipe
 
@@ -20,15 +22,7 @@ Nous avons collaboré sur toutes les parties du projet, partageant la création 
 
 ---
 
-## 🕹️ 3. Repértoire du jeu 
-
-**Dreambound**  
-[Lien du repéretoire du jeu sur GitLab](https://gitlab.com/aminehaddab/dreamland) 
-
----
-
-
-## 📖 4. Description du jeu
+## 📖 3. Description du jeu
 
 **Dreambound** vous plonge dans un univers onirique où vous êtes coincé dans un rêve.  
 Pour vous réveiller, trouvez trois éléments clés et échappez à ce cauchemar éternel.
@@ -49,7 +43,7 @@ Un narrateur guide le joueur tout au long de l’aventure.
 
 ---
 
-## 🎮 5. Mécaniques & Contrôles
+## 🎮 4. Mécaniques & Contrôles
 
 - 🔄 **Déplacements** : Z Q S D ou flèches directionnelles  
 - ⬆️ **Saut** : Espace  
@@ -58,9 +52,9 @@ Un narrateur guide le joueur tout au long de l’aventure.
 
 ---
 
-## 🕹️ 6. Comment jouer
+## 🕹️ 5. Comment jouer
 
-- Lancez le jeu (voir section suivante).  
+- Lancez le jeu (voir [Guide d'utilisation du jeu](./GuideUtilisation.md)  ).  
 - Utilisez les touches pour avancer et interagir.  
 - Résolvez chaque mini-jeu guidé par le narrateur.  
 - Évitez les obstacles et mémorisez les chemins.  
@@ -68,7 +62,7 @@ Un narrateur guide le joueur tout au long de l’aventure.
 
 ---
 
-## 📸 7. Démo
+## 📸 6. Démo
 
 *Section à compléter prochainement.*  
 
@@ -79,7 +73,7 @@ Les vidéos de gameplay et présentation sont disponibles via un Google Drive.
 
 ---
 
-## 🛠️ 8. Technologies utilisées
+## 🛠️ 7. Technologies utilisées
 
 - 🕹️ **Babylon.js** (moteur 3D)  
 - 🎨 **Blender** (modélisation & animation)  
@@ -90,56 +84,14 @@ Les vidéos de gameplay et présentation sont disponibles via un Google Drive.
 
 ---
 
----
+## 🌐 8. Documentation
 
-## 🌐 9. Documentation
-
-[Lien de la documenatation sur Google Doc]( https://docs.google.com/document/d/19hUelwfgEz9e6lOScugZ3dI6ClFgxvcpmGNJMLa0nro/edit?usp=drive_link)  
-
----
-
-## 🚀 10. Lancer le projet
-
-### Installation
-
-1. **Cloner le dépôt :**
-
-```
-git clone https://gitlab.com/aminehaddab/dreamland
-```
-
-2.  **Installer les dépendances :**
-
-```
-
-npm install
-
-```
-
-3.  **Lancer le projet :**
-
-```
-
-npm run dev
-
-```
-Une fois ces étapes terminées, le projet sera accessible via votre navigateur à l’adresse généralement indiquée dans la console (`http://localhost:5173`).
-
-## 🌐 Version en ligne
-
-Le jeu est également hébergé sur Firebase Hosting.  
-*Lien à venir.*
+- [Guide d'utilisation du jeu](./GuideUtilisation.md)
+- [Documentation](./Documentation.md)  
 
 ---
 
-## 🎯 11. Conseils pour jouer
-
-- 🖥️ Passez en plein écran avec **F11** pour une immersion optimale.  
-- 🖱️ Cliquez une fois dans la fenêtre du jeu pour activer les contrôles clavier/souris.
-
----
-
-## 🔮 12. État du projet & perspectives
+## 🔮 9. État du projet & perspectives
 
 **Dreambound** est fonctionnel et jouable avec ses trois niveaux et son histoire immersive.
 
@@ -151,11 +103,11 @@ Il reste cependant des axes d’amélioration :
 
 ---
 
-## 📇 13. Contact & Réseaux
+## 📇 10. Contact & Réseaux
 
 Pour suivre notre travail ou nous contacter :  
 
-- [Amine Haddab sur LinkedIn](https://www.linkedin.com/in/amine-haddab/)  
+- [Amine Haddab sur LinkedIn](https://www.linkedin.com/in/aminehaddab)  
 - [Gana Abdelkader sur LinkedIn](https://www.linkedin.com/in/gana-abdelkader)
 
 ---
