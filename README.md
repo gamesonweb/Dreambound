@@ -155,7 +155,7 @@ Il reste cependant des axes d’amélioration :
 
 Pour suivre notre travail ou nous contacter :  
 
-- [Amine Haddab sur LinkedIn](https://www.linkedin.com/in/aminehaddab)  
+- [Amine Haddab sur LinkedIn](https://www.linkedin.com/in/amine-haddab/)  
 - [Gana Abdelkader sur LinkedIn](https://www.linkedin.com/in/gana-abdelkader)
 
 ---
