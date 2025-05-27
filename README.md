@@ -68,8 +68,8 @@ Un narrateur guide le joueur tout au long de l’aventure.
 <p align="center"> <img src="public/images/demo1.png" alt="Capture Dreambound 1" width="300"/> <img src="public/images/demo2.png" alt="Capture Dreambound 2" width="300"/> </p> <p align="center"> <img src="public/images/demo3.png" alt="Capture Dreambound 3" width="300"/> <img src="public/images/demo4.png" alt="Capture Dreambound 4" width="300"/> </p>
 
 - [Vidéo de Gameplay](https://youtu.be/fMFAdqLfLlY) 
-Les vidéos de gameplay et présentation sont aussi disponibles via un Google Drive.
-- [Lien du repéretoire sur Google Drive](https://drive.google.com/drive/folders/1Tf7yyOTqn-4mb3lfqxvpOOb0SYGV5oLb?usp=drive_link) 
+- Les vidéos de gameplay et présentation sont aussi disponibles via un Google Drive.
+   [Lien du repéretoire sur Google Drive](https://drive.google.com/drive/folders/1Tf7yyOTqn-4mb3lfqxvpOOb0SYGV5oLb?usp=drive_link) 
  
 ---
 
