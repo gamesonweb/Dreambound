@@ -37,7 +37,7 @@ Une fois ces étapes terminées, le projet sera accessible via votre navigateur 
 ## 🌐 Version en ligne
 
 Le jeu est également hébergé sur Firebase Hosting.  
-*Lien à venir.*
+- [Jeu hébérgé sur ce lien](https://dreamland-6e20f.web.app) 
 
 ---
 

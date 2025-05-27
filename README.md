@@ -4,7 +4,6 @@
 </p>
 
 # 🌌 Dreambound
-> [Lien vers le repértoire GitLab](https://gitlab.com/aminehaddab/dreamland) 
 
 ## 👥 1. Présentation de l'équipe
 
@@ -13,6 +12,7 @@ Nous sommes **Amine Haddab** et **Gana Abdelkader**, étudiants à l’Universit
 - Gana est en **Licence 3 MIAGE**
 
 Nous avons collaboré sur toutes les parties du projet, partageant la création de la logique et du visuel pour une expérience fluide et immersive.
+[Vidéo de présentation](https://youtu.be/2kYtVNKXFIg)
 
 ---
 
@@ -65,13 +65,12 @@ Un narrateur guide le joueur tout au long de l’aventure.
 
 ## 📸 6. Démo
 
-*Section à compléter prochainement.*  
+<p align="center"> <img src="public/images/demo1.png" alt="Capture Dreambound 1" width="300"/> <img src="public/images/demo2.png" alt="Capture Dreambound 2" width="300"/> </p> <p align="center"> <img src="public/images/demo3.png" alt="Capture Dreambound 3" width="300"/> <img src="public/images/demo4.png" alt="Capture Dreambound 4" width="300"/> </p>
 
-Les vidéos de gameplay et présentation sont disponibles via un Google Drive.
+- [Vidéo de Gameplay](https://youtu.be/fMFAdqLfLlY) 
+Les vidéos de gameplay et présentation sont aussi disponibles via un Google Drive.
 - [Lien du repéretoire sur Google Drive](https://drive.google.com/drive/folders/1Tf7yyOTqn-4mb3lfqxvpOOb0SYGV5oLb?usp=drive_link) 
-- [Vidéo de présentation](https://drive.google.com/file/d/1U4aApzYtJOjwDhCfP3jEIjo05QwI_isO/view?usp=drive_link) 
-- [Vidéo de Gameplay]()  
-
+ 
 ---
 
 ## 🛠️ 7. Technologies utilisées
