@@ -5,6 +5,9 @@
 
 # 🌌 Dreambound
 > [Lien vers le repértoire GitLab](https://gitlab.com/aminehaddab/dreamland)
+
+- Vous trouverez les liens importants [ici](./liensImportants.md) 
+
 ## 👥 1. Présentation de l'équipe
 
 Nous sommes **Amine Haddab** et **Gana Abdelkader**, étudiants à l’Université Haute-Alsace à Mulhouse.  
